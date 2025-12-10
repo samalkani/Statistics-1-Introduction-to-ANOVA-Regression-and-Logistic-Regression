@@ -15,8 +15,24 @@ This repository is an introduction in the use of SAS/STAT software to perform st
 
 ## Organisation of Repository
 
+This repository is organised into 5 main folders as follows;
 
-## Detailed Content of repository
+1. __SAS Demonstration Programs__ - a collection of short SAS programs to demonstrate basic concepts of statistics.
+2. __SAS Solution Programs__ - a collection of short SAS programs that answer specific questions asked during the course.
+3. __SAS Demonstration Program Output__ - a collection of SAS outputs that correspond to the SAS demonstration programs covered during the course.
+4. __SAS Solution Program Output__ - a collection of SAS outputs that correspond to the SAS solution programs covered during the course.
+5. __SAS Data Sets__ - a collection of data sets, stored formats, and stored scored data used by the SAS programs covered in this course.
+
+## Labelling of the SAS Programs and corresponding SAS Output
+
+The labelling of the SAS programs is very specific see examples below;
+
+1. __st101d03__ = __st1__ = statistics 1 course, __01__ = Chapter of the course in this case chapter 1, __d__ = Demonstration program, __03__ = program number 3
+2. __st101d03_Output__ = corresponding output of SAS program __st101d03__
+3. __st101s02__ = __st1__ = statistics 1 course, __01__ = Chapter of the course in this case chapter 1, __s__ = Solution program, __03__ = program number 2
+4. __st101s02__Output__ = corresponding output of the SAS program __st101s02__
+
+## Detailed Content of Repository's Chapters
 
 1. __Introduction and Review of Concepts__
 
@@ -35,7 +51,7 @@ This repository is an introduction in the use of SAS/STAT software to perform st
    * Pearson Correlation
    * Simple Linear Regression
 
-3. __More complex Linear Models__
+3. __More Complex Linear Models__
 
    * Introduction
    * Two-Way ANOVA and Interactions
